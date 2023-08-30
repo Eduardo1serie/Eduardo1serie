@@ -1,9 +1,10 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu perfil
 
 <!--
-**Eduardo1serie/Eduardo1serie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Eduardo1[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
 
-Here are some ideas to get you started:
+![image](https://github.com/Eduardo1serie/Eduardo1serie/assets/143622748/e1fc81d3-afad-411a-a6b0-f3d4289ac6b0)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
